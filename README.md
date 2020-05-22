@@ -1,5 +1,5 @@
 # hello-world
-Learning how to do make a repository.
+Learning how to make a repository.
 
 Olá!
 
